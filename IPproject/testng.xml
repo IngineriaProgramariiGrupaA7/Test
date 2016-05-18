@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="ip.project.interfaceProject.Test.Description"/>
+      <class name="ip.project.interfaceProject.Test.TitleInsert"/>
+      <class name="ip.project.interfaceProject.Test.StakeholdersAndInterests"/>
+      <class name="ip.project.interfaceProject.Test.ActorsAndObjectivesEdit"/>
+      <class name="ip.project.interfaceProject.Test.AuthorInsert"/>
+      <class name="ip.project.interfaceProject.Test.ActorsAndObjectivesAdd"/>
+      <class name="ip.project.interfaceProject.Test.DomainInsert"/>
+      <class name="ip.project.interfaceProject.Test.DescriptionInsert"/>
+      <class name="ip.project.interfaceProject.Test.OpenButton"/>
+      <class name="ip.project.interfaceProject.Test.Title"/>
+      <class name="ip.project.interfaceProject.Test.AuthorAddButton"/>
+      <class name="ip.project.interfaceProject.Test.Domanin"/>
+      <class name="ip.project.interfaceProject.Test.StakefoldersAndInterestsEdit"/>
+      <class name="ip.project.interfaceProject.Test.AuthorRemoveButton"/>
+      <class name="ip.project.interfaceProject.Test.Author"/>
+      <class name="ip.project.interfaceProject.Test.StakeholdersAndInterestsWindow"/>
+      <class name="ip.project.interfaceProject.Test.ActorsAndObjectives"/>
+      <class name="ip.project.interfaceProject.Test.OpenBroswer"/>
+      <class name="ip.project.interfaceProject.Test.CreateButton"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

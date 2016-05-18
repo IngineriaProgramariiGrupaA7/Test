@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="ip.project.interfaceProject.Test.StakeholdersAndInterests">
+        <methods>
+          <include name="setUp"/>
+          <include name="driverQuit"/>
+        </methods>
+      </class> <!-- ip.project.interfaceProject.Test.StakeholdersAndInterests -->
+      <class name="ip.project.interfaceProject.Test.AuthorAddButton">
+        <methods>
+          <include name="setUp"/>
+          <include name="driverQuit"/>
+        </methods>
+      </class> <!-- ip.project.interfaceProject.Test.AuthorAddButton -->
+      <class name="ip.project.interfaceProject.Test.ActorsAndObjectives">
+        <methods>
+          <include name="actorsAndObjectives"/>
+          <include name="setUp"/>
+          <include name="driverQuit"/>
+        </methods>
+      </class> <!-- ip.project.interfaceProject.Test.ActorsAndObjectives -->
+      <class name="ip.project.interfaceProject.Test.DomainInsert">
+        <methods>
+          <include name="setUp"/>
+          <include name="driverQuit"/>
+        </methods>
+      </class> <!-- ip.project.interfaceProject.Test.DomainInsert -->
+      <class name="ip.project.interfaceProject.Test.ActorsAndObjectivesEdit">
+        <methods>
+          <include name="actorsAndObjectives"/>
+          <include name="setUp"/>
+          <include name="driverQuit"/>
+        </methods>
+      </class> <!-- ip.project.interfaceProject.Test.ActorsAndObjectivesEdit -->
+      <class name="ip.project.interfaceProject.Test.DescriptionInsert">
+        <methods>
+          <include name="setUp"/>
+          <include name="driverQuit"/>
+        </methods>
+      </class> <!-- ip.project.interfaceProject.Test.DescriptionInsert -->
+      <class name="ip.project.interfaceProject.Test.OpenBroswer">
+        <methods>
+          <include name="setUp"/>
+          <include name="driverQuit"/>
+        </methods>
+      </class> <!-- ip.project.interfaceProject.Test.OpenBroswer -->
+      <class name="ip.project.interfaceProject.Test.AuthorRemoveButton">
+        <methods>
+          <include name="setUp"/>
+          <include name="driverQuit"/>
+        </methods>
+      </class> <!-- ip.project.interfaceProject.Test.AuthorRemoveButton -->
+      <class name="ip.project.interfaceProject.Test.Author">
+        <methods>
+          <include name="setUp"/>
+          <include name="driverQuit"/>
+        </methods>
+      </class> <!-- ip.project.interfaceProject.Test.Author -->
+      <class name="ip.project.interfaceProject.Test.OpenButton">
+        <methods>
+          <include name="setUp"/>
+          <include name="driverQuit"/>
+        </methods>
+      </class> <!-- ip.project.interfaceProject.Test.OpenButton -->
+      <class name="ip.project.interfaceProject.Test.StakefoldersAndInterestsEdit">
+        <methods>
+          <include name="setUp"/>
+          <include name="driverQuit"/>
+        </methods>
+      </class> <!-- ip.project.interfaceProject.Test.StakefoldersAndInterestsEdit -->
+      <class name="ip.project.interfaceProject.Test.ActorsAndObjectivesAdd">
+        <methods>
+          <include name="setUp"/>
+          <include name="driverQuit"/>
+        </methods>
+      </class> <!-- ip.project.interfaceProject.Test.ActorsAndObjectivesAdd -->
+      <class name="ip.project.interfaceProject.Test.TitleInsert">
+        <methods>
+          <include name="setUp"/>
+          <include name="driverQuit"/>
+        </methods>
+      </class> <!-- ip.project.interfaceProject.Test.TitleInsert -->
+      <class name="ip.project.interfaceProject.Test.Description">
+        <methods>
+          <include name="setUp"/>
+          <include name="driverQuit"/>
+        </methods>
+      </class> <!-- ip.project.interfaceProject.Test.Description -->
+      <class name="ip.project.interfaceProject.Test.CreateButton">
+        <methods>
+          <include name="setUp"/>
+          <include name="driverQuit"/>
+        </methods>
+      </class> <!-- ip.project.interfaceProject.Test.CreateButton -->
+      <class name="ip.project.interfaceProject.Test.AuthorInsert">
+        <methods>
+          <include name="setUp"/>
+          <include name="driverQuit"/>
+        </methods>
+      </class> <!-- ip.project.interfaceProject.Test.AuthorInsert -->
+      <class name="ip.project.interfaceProject.Test.StakeholdersAndInterestsWindow">
+        <methods>
+          <include name="setUp"/>
+          <include name="driverQuit"/>
+        </methods>
+      </class> <!-- ip.project.interfaceProject.Test.StakeholdersAndInterestsWindow -->
+      <class name="ip.project.interfaceProject.Test.Domanin">
+        <methods>
+          <include name="setUp"/>
+          <include name="driverQuit"/>
+        </methods>
+      </class> <!-- ip.project.interfaceProject.Test.Domanin -->
+      <class name="ip.project.interfaceProject.Test.Title">
+        <methods>
+          <include name="setUp"/>
+          <include name="driverQuit"/>
+        </methods>
+      </class> <!-- ip.project.interfaceProject.Test.Title -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
