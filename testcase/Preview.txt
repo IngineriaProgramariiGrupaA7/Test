@@ -1,0 +1,13 @@
+
+Titlu: test Preview;
+
+Preconditii:
+
+Pasi:
+1. deschide browser
+2. tasteaza url (localhost:8080)
+3. click Create 
+4. click Preview
+
+Rezultat dorit:
+Cand se apasa butonul Preview se va deschide o fereastra cu imaginea formularului completat total/ deloc/ partial.

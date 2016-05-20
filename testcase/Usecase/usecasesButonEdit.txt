@@ -1,0 +1,12 @@
+Titlu: testare buton Edit din Usecases
+Preconditii:
+Pasi: 
+	1.deschide browser
+	2.introduce url
+	3.click Create
+	4.click Usecases
+	5.click casuta text
+	6.introduce text
+	7.click Edit
+Rezultat dorit:
+	Cand se apasa butonul, textul salvat se poate modifica

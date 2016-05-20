@@ -1,0 +1,15 @@
+
+Titlu: test Actors and Objectives - ADD;
+
+Preconditii:
+
+Pasi:
+1. deschide browser
+2. tasteaza url (localhost:8080)
+3. click Create 
+4. click Actors and Objectives
+5. click ADD
+
+
+Rezultat dorit:
+Apare o noua casutatext, insotita de butoanele Remove, Edit si ADD.

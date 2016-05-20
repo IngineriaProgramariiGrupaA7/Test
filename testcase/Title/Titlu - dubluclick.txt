@@ -1,0 +1,14 @@
+
+Titlu: test Title;
+
+Preconditii:
+
+Pasi:
+1. deschide browser
+2. tasteaza url (localhost:8080)
+3. click Create 
+4. dublu click Title
+
+
+Rezultat dorit:
+Campul Title ramane la forma de baza, fara sa contina subcampuri

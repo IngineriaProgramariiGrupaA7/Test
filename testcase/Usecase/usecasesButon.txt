@@ -1,0 +1,9 @@
+Titlu: testare buton Usecases
+Preconditii:
+Pasi: 
+	1.deschide browser
+	2.introduce url
+	3.click Create
+	4.click Usecases
+Rezultat dorit:
+	Cand se apasa butonul se deschide un camp care contine o caseta text si doua butoane, Edit si Add

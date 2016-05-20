@@ -1,0 +1,15 @@
+
+Titlu: test Stakeholders and Interests - Remove;
+
+Preconditii:
+
+Pasi:
+1. deschide browser
+2. tasteaza url (localhost:8080)
+3. click Create 
+4. click Stakeholders and Interests
+5. click ADD
+6. click Remove
+
+Rezultat dorit:
+Campul creat de comanda ADD a fost eliminat.

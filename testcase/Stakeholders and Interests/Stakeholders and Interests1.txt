@@ -1,0 +1,16 @@
+
+Titlu: test Stakeholders and Interests;
+
+Preconditii:
+
+Pasi:
+1. deschide browser
+2. tasteaza url (localhost:8080)
+3. click Create 
+4. click Stakeholders and Interests
+
+
+
+Rezultat dorit:
+Cand se apasa butonul Stakeholders and Interests se va deschide un camp unde se va completa cu text,
+ existand butoanele Edit si Add

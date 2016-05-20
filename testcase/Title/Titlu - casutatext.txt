@@ -1,0 +1,15 @@
+
+Titlu: test Title - casutatext;
+
+Preconditii:
+
+Pasi:
+1. deschide browser
+2. tasteaza url (localhost:8080)
+3. click Create 
+4. click Title
+5. click casutatext
+6. tasteaza text
+
+Rezultat dorit:
+Text scris in campul ramurei Title

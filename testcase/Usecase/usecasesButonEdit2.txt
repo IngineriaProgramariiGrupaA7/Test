@@ -1,0 +1,13 @@
+Titlu: testare buton Edit nr2 din Usecases
+Preconditii:
+Pasi: 
+	1.deschide browser
+	2.introduce url
+	3.click Create
+	4.click Usecases
+	5.click Add
+	6.click casuta text
+	7.introduce text in casuta nr2
+	8.click Edit
+Rezultat dorit:
+	Cand se apasa butonul, textul salvat se poate modifica

@@ -1,0 +1,10 @@
+Titlu: testare buton Preview dupa ce fisa a fost resetata
+Preconditii:
+Pasi: 
+	1.deschide browser
+	2.introduce url
+	3.click Create
+	4.click Reset
+	5.click Preview
+Rezultat dorit:
+	Cand se apasa butonul, se deschide o noua pagina cu fisa necompletata

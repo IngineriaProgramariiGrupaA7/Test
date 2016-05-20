@@ -1,0 +1,16 @@
+
+Titlu: test Sheet Editor;
+
+Preconditii:
+
+Pasi:
+1. deschide browser
+2. tasteaza url (localhost:8080)
+3. click Create 
+
+
+
+Rezultat dorit:
+Pagina deschisa trebuie sa aiba numele "Sheet Editor - Complete the form to generate diagrams", campurile: 
+Title, Authors, Description, Domain, Stakeholders and Inerests, Actors and Objectives, Usecases si 
+butoanele Preview, Reset, Save draft, Submit.

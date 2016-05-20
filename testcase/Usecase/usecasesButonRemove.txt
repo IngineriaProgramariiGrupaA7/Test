@@ -1,0 +1,11 @@
+Titlu: testare buton Remove din Usecases
+Preconditii:
+Pasi: 
+	1.deschide browser
+	2.introduce url
+	3.click Create
+	4.click Usecases
+	5.click Add
+	6.click Remove
+Rezultat dorit:
+	Cand se apasa butonul, campul creat de de butonul Add dispare

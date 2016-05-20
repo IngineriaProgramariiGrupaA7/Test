@@ -1,0 +1,59 @@
+
+Titlu: test complet
+
+Preconditii:
+
+Pasi:
+1. deschide browser
+2. tasteaza url (localhost:8080)
+3. click Create 
+4. click Title
+5. tasteaza titlul
+6. click Authors
+7. tasteaza text
+8. click Description
+9. tasteaza textul de descriere
+10. click Domain
+11. tasteaza text
+12. click Stakeholders and Interests
+13. click EDIT
+14. click Stakeholder title
+15. tasteaza titlul
+16. click Stakeholder interests
+17. tasteaza textul dorit
+18. click SAVE
+19. click Actors and Objectives
+20. click EDIT
+21. click Actor name
+22. tasteaza numele
+23. click Objectives
+24. tasteaza textul dorit
+25. click Inherits
+26. select None
+27. click SAVE
+28. click Usecases
+29. click EDIT
+30. click casutatext Use-case title
+31. tasteaza titlul
+32. click casutatext Objective/Context
+33. tasteaza textul dorit
+34. click Actors
+35. selecteaza un actor
+36. click casutatext Step title
+37. tasteaza titlul pasului
+38. click Description
+39. taseaza textul dorit
+40. click Extensions title
+41. tasteaza titlul
+42. click Description
+43. tasteaza text
+44. click SAVE 
+45. click SUBMIT
+46. click USECASE DIAGRAM
+47. click buton <- (stanga)
+
+
+
+
+Rezultat dorit:
+Diagrama va pleca mai la dreapta

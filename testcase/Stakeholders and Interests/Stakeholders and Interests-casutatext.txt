@@ -1,0 +1,16 @@
+
+Titlu: test Stakeholders and Interests - scrie in casutatext;
+
+Preconditii:
+
+Pasi:
+1. deschide browser
+2. tasteaza url (localhost:8080)
+3. click Create 
+4. click Stakeholders and Interests
+5. click casutatext
+6. tasteaza text
+
+
+Rezultat dorit:
+Dupa tastarea textului acesta trebuie sa ramana in casutatext, fara a mai putea fi modificat, decat cu ajutorul butonului Edit

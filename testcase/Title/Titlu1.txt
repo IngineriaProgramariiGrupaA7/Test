@@ -1,0 +1,13 @@
+
+Titlu: test Title;
+
+Preconditii:
+
+Pasi:
+1. deschide browser
+2. tasteaza url (localhost:8080)
+3. click Create 
+4. click Title
+
+Rezultat dorit:
+Cand se apasa butonul Title se va deschide un camp unde se va completa cu text

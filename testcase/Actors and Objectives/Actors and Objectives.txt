@@ -1,0 +1,16 @@
+
+Titlu: test Actors and Objectives;
+
+Preconditii:
+
+Pasi:
+1. deschide browser
+2. tasteaza url (localhost:8080)
+3. click Create 
+4. click Actors and Objectives
+
+
+
+Rezultat dorit:
+Cand se apasa butonul Actors and Objectives se va deschide un camp unde se va completa cu text,
+ existand butoanele Edit si Add

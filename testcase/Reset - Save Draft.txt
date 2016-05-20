@@ -1,0 +1,14 @@
+
+Titlu: test Reset - Save Draft;
+
+Preconditii:
+
+Pasi:
+1. deschide browser
+2. tasteaza url (localhost:8080)
+3. click Create 
+4. click Reset
+5. click Save Draft
+
+Rezultat dorit:
+Afisarea mesajului "Nu ati completat nici un camp ca sa puteti salva ca Draft".
